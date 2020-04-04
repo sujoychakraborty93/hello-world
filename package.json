@@ -1,0 +1,24 @@
+{
+  "name": "jenkins-nodejs-docker-tutorial-3-helloworld",
+  "version": "1.0.0",
+  "description": "a short description hi.. this is github this is from branch",
+  "main": "file_created_on_branch.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index-readme-branch.js",
+    "start-dev": "nodemon index-readme-branch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujoychakraborty93/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujoychakraborty93/hello-world/issues"
+  },
+  "homepage": "https://github.com/sujoychakraborty93/hello-world#readme"
+}
